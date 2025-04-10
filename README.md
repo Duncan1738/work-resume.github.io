@@ -39,10 +39,6 @@
 - 🧠 Designing **LLM+vector search systems** for secure and private enterprise search  
 - 🔌 Integrating models into real-world apps via **REST APIs** and **cloud-native deployments**
 
----
-
-### 🧬 Data & AI Visuals
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="280" alt="AI brain" />
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="280" alt="Data streaming" />
