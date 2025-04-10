@@ -62,7 +62,7 @@
 
 ### 📫 How to reach me
 
-- 🌐 Website: [https://duncan1738.github.io/personal-landing-page.github/)  
+- 🌐 Website: [https://duncan1738.github.io/work-resume.github.io/)  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duncan1738&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
