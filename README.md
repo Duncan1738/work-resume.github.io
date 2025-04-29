@@ -58,7 +58,7 @@
 
 ### 📫 How to reach me
 
-- 🌐 Website: [[https://duncan1738.github.io/work-resume.github.io/](https://about-duncankibet.web.app/))  
+- 🌐 Website: https://about-duncankibet.web.app/ 
 
 
 <p align="center">
