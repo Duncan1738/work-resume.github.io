@@ -58,7 +58,8 @@
 
 ### 📫 How to reach me
 
-- 🌐 Website: [https://duncan1738.github.io/work-resume.github.io/)  
+- 🌐 Website: [[https://duncan1738.github.io/work-resume.github.io/](https://about-duncankibet.web.app/))  
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duncan1738&label=Profile+views&color=0e75b6&style=flat" alt="profile-views" />
