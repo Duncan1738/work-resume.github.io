@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 What I Work On
+### What I Work On
 
 - 🔬 Advancing **computer vision** techniques for medical and industrial applications  
 - 🧬 Applying **machine learning** in data-heavy domains like healthcare, chemistry, and solar analysis  
@@ -31,7 +31,7 @@
 
 ---
 
-### 🧪 Current Initiatives
+### Current Initiatives
 
 - 👣 **Pose and movement tracking** using MediaPipe for physiotherapy use cases  
 - ☀️ **Thermal image processing** to identify defects in solar modules  
@@ -56,7 +56,7 @@
 
 ---
 
-### 📫 How to reach me
+### How to reach me
 
 - 🌐 Website: https://about-duncankibet.web.app/ 
 
